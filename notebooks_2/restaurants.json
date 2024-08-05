@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Le Bernardin",
+    "cuisine": "seafood",
+    "description": "Le Bernardin, a seafood restaurant, has a {} star rating."
+  },
+  {
+    "name": "Alinea",
+    "cuisine": "molecular gastronomy",
+    "description": "Alinea, specializing in molecular gastronomy, is rated {} stars."
+  },
+  {
+    "name": "Joe's Place",
+    "cuisine": "American diner",
+    "description": "Joe's Place, a classic American diner, received a {} star rating from customers."
+  },
+  {
+    "name": "Noma",
+    "cuisine": "New Nordic",
+    "description": "Noma, featuring New Nordic cuisine, currently holds a {} star rating."
+  },
+  {
+    "name": "Luigi's Pizzeria",
+    "cuisine": "Italian",
+    "description": "Luigi's Pizzeria, serving traditional Italian pies, has been given {} stars by diners."
+  },
+  {
+    "name": "El Celler de Can Roca",
+    "cuisine": "Spanish",
+    "description": "El Celler de Can Roca, offering modern Spanish dishes, maintains a {} star rating."
+  },
+  {
+    "name": "Sukiyabashi Jiro",
+    "cuisine": "sushi",
+    "description": "Sukiyabashi Jiro, a sushi restaurant, has received {} stars."
+  },
+  {
+    "name": "Burger Bonanza",
+    "cuisine": "fast-food",
+    "description": "Burger Bonanza, a fast-food burger joint, averages {} stars across its locations."
+  },
+  {
+    "name": "Osteria Francescana",
+    "cuisine": "Italian",
+    "description": "Osteria Francescana, presenting contemporary Italian cuisine, holds a {} star rating."
+  },
+  {
+    "name": "Green Fields",
+    "cuisine": "farm-to-table",
+    "description": "Green Fields, a farm-to-table restaurant, has cultivated a {} star rating."
+  },
+  {
+    "name": "Sushi Saito",
+    "cuisine": "sushi",
+    "description": "Sushi Saito, a renowned sushi establishment, boasts a {} star rating."
+  },
+  {
+    "name": "The Fat Duck",
+    "cuisine": "molecular gastronomy",
+    "description": "The Fat Duck, known for its innovative dishes, has earned {} stars."
+  },
+  {
+    "name": "Eleven Madison Park",
+    "cuisine": "Contemporary American",
+    "description": "Eleven Madison Park, serving contemporary American cuisine, is rated {} stars."
+  },
+  {
+    "name": "Central",
+    "cuisine": "Peruvian",
+    "description": "Central, showcasing Peruvian biodiversity, has received a {} star rating."
+  },
+  {
+    "name": "Gaggan",
+    "cuisine": "Progressive Indian",
+    "description": "Gaggan, offering progressive Indian cuisine, holds a {} star rating."
+  },
+  {
+    "name": "D.O.M.",
+    "cuisine": "Brazilian",
+    "description": "D.O.M., featuring Brazilian ingredients, has been awarded {} stars."
+  },
+  {
+    "name": "Pujol",
+    "cuisine": "Mexican",
+    "description": "Pujol, a modern Mexican restaurant, maintains a {} star rating."
+  },
+  {
+    "name": "Steirereck",
+    "cuisine": "Austrian",
+    "description": "Steirereck, serving contemporary Austrian dishes, has earned {} stars."
+  },
+  {
+    "name": "Narisawa",
+    "cuisine": "Innovative Satoyama",
+    "description": "Narisawa, known for innovative Satoyama cuisine, holds a {} star rating."
+  },
+  {
+    "name": "Attica",
+    "cuisine": "Australian",
+    "description": "Attica, showcasing Australian ingredients, has received {} stars from diners."
+  },
+  {
+    "name": "Quintonil",
+    "cuisine": "Mexican",
+    "description": "Quintonil, a modern Mexican eatery, has been given {} stars by critics."
+  },
+  {
+    "name": "Mirazur",
+    "cuisine": "Mediterranean",
+    "description": "Mirazur, offering Mediterranean flavors, boasts a {} star rating."
+  },
+  {
+    "name": "Asador Etxebarri",
+    "cuisine": "Basque",
+    "description": "Asador Etxebarri, famous for its grilled dishes, maintains {} stars."
+  },
+  {
+    "name": "Tickets",
+    "cuisine": "Tapas",
+    "description": "Tickets, a creative tapas bar, has earned a {} star rating."
+  },
+  {
+    "name": "Maido",
+    "cuisine": "Nikkei",
+    "description": "Maido, specializing in Nikkei cuisine, holds {} stars."
+  },
+  {
+    "name": "Odette",
+    "cuisine": "French",
+    "description": "Odette, a French fine dining restaurant, has received {} stars."
+  },
+  {
+    "name": "White Rabbit",
+    "cuisine": "Modern Russian",
+    "description": "White Rabbit, serving modern Russian cuisine, maintains a {} star rating."
+  },
+  {
+    "name": "Ultraviolet",
+    "cuisine": "Avant-garde",
+    "description": "Ultraviolet, an avant-garde dining experience, has been awarded {} stars."
+  },
+  {
+    "name": "Arpège",
+    "cuisine": "Vegetable-focused French",
+    "description": "Arpège, known for its vegetable-focused French cuisine, holds {} stars."
+  },
+  {
+    "name": "Mugaritz",
+    "cuisine": "Experimental",
+    "description": "Mugaritz, an experimental restaurant, has earned a {} star rating."
+  },
+  {
+    "name": "L'Enclume",
+    "cuisine": "Modern British",
+    "description": "L'Enclume, offering modern British fare, maintains {} stars."
+  },
+  {
+    "name": "Azurmendi",
+    "cuisine": "Basque",
+    "description": "Azurmendi, a Basque culinary destination, has received {} stars."
+  },
+  {
+    "name": "Piazza Duomo",
+    "cuisine": "Italian",
+    "description": "Piazza Duomo, an Italian fine dining establishment, holds a {} star rating."
+  },
+  {
+    "name": "The Ledbury",
+    "cuisine": "Modern European",
+    "description": "The Ledbury, serving modern European cuisine, has been given {} stars."
+  },
+  {
+    "name": "Amber",
+    "cuisine": "French Contemporary",
+    "description": "Amber, a French contemporary restaurant, boasts {} stars."
+  },
+  {
+    "name": "De Librije",
+    "cuisine": "Dutch",
+    "description": "De Librije, showcasing Dutch cuisine, has earned a {} star rating."
+  },
+  {
+    "name": "Astrid y Gastón",
+    "cuisine": "Peruvian",
+    "description": "Astrid y Gastón, a Peruvian culinary landmark, holds {} stars."
+  },
+  {
+    "name": "Nihonryori RyuGin",
+    "cuisine": "Japanese",
+    "description": "Nihonryori RyuGin, specializing in Japanese cuisine, has received {} stars."
+  },
+  {
+    "name": "Restaurant Tim Raue",
+    "cuisine": "Asian-inspired",
+    "description": "Restaurant Tim Raue, offering Asian-inspired dishes, maintains a {} star rating."
+  },
+  {
+    "name": "Vendôme",
+    "cuisine": "Modern German",
+    "description": "Vendôme, a modern German restaurant, has been awarded {} stars."
+  },
+  {
+    "name": "Boragó",
+    "cuisine": "Chilean",
+    "description": "Boragó, featuring Chilean ingredients, holds a {} star rating."
+  },
+  {
+    "name": "Burnt Ends",
+    "cuisine": "Modern Barbecue",
+    "description": "Burnt Ends, a modern barbecue restaurant, has earned {} stars."
+  },
+  {
+    "name": "Fäviken",
+    "cuisine": "New Nordic",
+    "description": "Fäviken, a New Nordic culinary destination, maintains {} stars."
+  },
+  {
+    "name": "Saison",
+    "cuisine": "Contemporary American",
+    "description": "Saison, serving contemporary American cuisine, has received a {} star rating."
+  },
+  {
+    "name": "Geranium",
+    "cuisine": "Scandinavian",
+    "description": "Geranium, offering Scandinavian flavors, boasts {} stars."
+  },
+  {
+    "name": "Maaemo",
+    "cuisine": "New Nordic",
+    "description": "Maaemo, a New Nordic fine dining establishment, holds {} stars."
+  },
+  {
+    "name": "SingleThread",
+    "cuisine": "Californian",
+    "description": "SingleThread, showcasing Californian produce, has been given {} stars."
+  },
+  {
+    "name": "Enigma",
+    "cuisine": "Avant-garde",
+    "description": "Enigma, an avant-garde dining experience, has earned a {} star rating."
+  },
+  {
+    "name": "Leo",
+    "cuisine": "Colombian",
+    "description": "Leo, featuring Colombian biodiversity, maintains {} stars."
+  },
+  {
+    "name": "Core by Clare Smyth",
+    "cuisine": "Modern British",
+    "description": "Core by Clare Smyth, a modern British restaurant, has received {} stars."
+  },
+  {
+    "name": "Atelier Crenn",
+    "cuisine": "Modern French",
+    "description": "Atelier Crenn, offering modern French cuisine, holds a {} star rating."
+  },
+  {
+    "name": "Tickets",
+    "cuisine": "Tapas",
+    "description": "Tickets, a creative tapas bar, has earned {} stars."
+  },
+  {
+    "name": "Aponiente",
+    "cuisine": "Seafood",
+    "description": "Aponiente, specializing in seafood, maintains a {} star rating."
+  },
+  {
+    "name": "Schloss Schauenstein",
+    "cuisine": "Swiss",
+    "description": "Schloss Schauenstein, a Swiss culinary castle, has been awarded {} stars."
+  },
+  {
+    "name": "DiverXO",
+    "cuisine": "Fusion",
+    "description": "DiverXO, known for its fusion cuisine, holds {} stars."
+  },
+  {
+    "name": "The Test Kitchen",
+    "cuisine": "Eclectic",
+    "description": "The Test Kitchen, an eclectic dining experience, has received a {} star rating."
+  },
+  {
+    "name": "Lyle's",
+    "cuisine": "Modern British",
+    "description": "Lyle's, serving modern British fare, boasts {} stars."
+  },
+  {
+    "name": "Cosme",
+    "cuisine": "Mexican",
+    "description": "Cosme, a contemporary Mexican restaurant, maintains {} stars."
+  },
+  {
+    "name": "Relae",
+    "cuisine": "New Nordic",
+    "description": "Relae, offering New Nordic cuisine, has earned a {} star rating."
+  },
+  {
+    "name": "Alo",
+    "cuisine": "Contemporary French",
+    "description": "Alo, a contemporary French restaurant, holds {} stars."
+  },
+  {
+    "name": "Benu",
+    "cuisine": "Asian-influenced American",
+    "description": "Benu, featuring Asian-influenced American cuisine, has been given {} stars."
+  },
+  {
+    "name": "Frantzen",
+    "cuisine": "Nordic-Asian",
+    "description": "Frantzen, offering Nordic-Asian fusion, has received a {} star rating."
+  },
+  {
+    "name": "Tegui",
+    "cuisine": "Argentine",
+    "description": "Tegui, an Argentine culinary gem, maintains {} stars."
+  },
+  {
+    "name": "The Clove Club",
+    "cuisine": "Modern British",
+    "description": "The Clove Club, serving modern British cuisine, holds {} stars."
+  },
+  {
+    "name": "Lido 84",
+    "cuisine": "Italian",
+    "description": "Lido 84, an Italian lakeside restaurant, has earned a {} star rating."
+  },
+  {
+    "name": "Hiša Franko",
+    "cuisine": "Slovenian",
+    "description": "Hiša Franko, showcasing Slovenian flavors, boasts {} stars."
+  },
+  {
+    "name": "Elkano",
+    "cuisine": "Basque",
+    "description": "Elkano, a Basque grilled fish specialist, maintains {} stars."
+  },
+  {
+    "name": "A Casa do Porco",
+    "cuisine": "Brazilian",
+    "description": "A Casa do Porco, celebrating Brazilian pork dishes, has received {} stars."
+  },
+  {
+    "name": "Sühring",
+    "cuisine": "Modern German",
+    "description": "Sühring, offering modern German cuisine, holds a {} star rating."
+  },
+  {
+    "name": "Den",
+    "cuisine": "Japanese",
+    "description": "Den, a playful Japanese restaurant, has been awarded {} stars."
+  },
+  {
+    "name": "Twins Garden",
+    "cuisine": "Modern Russian",
+    "description": "Twins Garden, serving modern Russian cuisine, maintains {} stars."
+  },
+  {
+    "name": "The Jane",
+    "cuisine": "Modern European",
+    "description": "The Jane, a modern European eatery, has earned a {} star rating."
+  },
+  {
+    "name": "Nobelhart & Schmutzig",
+    "cuisine": "Regional German",
+    "description": "Nobelhart & Schmutzig, focusing on regional German ingredients, holds {} stars."
+  },
+  {
+    "name": "Mathias Dahlgren",
+    "cuisine": "Nordic",
+    "description": "Mathias Dahlgren, a Nordic culinary destination, has received {} stars."
+  },
+  {
+    "name": "Florilège",
+    "cuisine": "Innovative French",
+    "description": "Florilège, known for innovative French cuisine, boasts a {} star rating."
+  },
+  {
+    "name": "Neolokal",
+    "cuisine": "Modern Turkish",
+    "description": "Neolokal, offering modern Turkish dishes, maintains {} stars."
+  },
+  {
+    "name": "Kadeau",
+    "cuisine": "Nordic",
+    "description": "Kadeau, a Nordic island-inspired restaurant, has earned {} stars."
+  },
+  {
+    "name": "Mume",
+    "cuisine": "Taiwan-inspired",
+    "description": "Mume, featuring Taiwan-inspired cuisine, holds a {} star rating."
+  },
+  {
+    "name": "The Chairman",
+    "cuisine": "Cantonese",
+    "description": "The Chairman, a Cantonese culinary gem, has been given {} stars."
+  },
+  {
+    "name": "Tishe",
+    "cuisine": "Ukrainian",
+    "description": "Tishe, showcasing modern Ukrainian cuisine, has received {} stars."
+  },
+  {
+    "name": "108",
+    "cuisine": "New Nordic",
+    "description": "108, a New Nordic casual dining spot, maintains a {} star rating."
+  },
+  {
+    "name": "Ossiano",
+    "cuisine": "Seafood",
+    "description": "Ossiano, an underwater seafood restaurant, has earned {} stars."
+  },
+  {
+    "name": "Blue Hill at Stone Barns",
+    "cuisine": "Farm-to-table American",
+    "description": "Blue Hill at Stone Barns, a pioneer in farm-to-table dining, has earned a {} star rating."
+  },
+  {
+    "name": "Disfrutar",
+    "cuisine": "Avant-garde Mediterranean",
+    "description": "Disfrutar, known for avant-garde Mediterranean cuisine, holds {} stars."
+  },
+  {
+    "name": "Virgilio Martínez",
+    "cuisine": "Peruvian altitude",
+    "description": "Virgilio Martínez, exploring Peruvian altitude ecosystems, has received {} stars."
+  },
+  {
+    "name": "Lasai",
+    "cuisine": "Brazilian-French fusion",
+    "description": "Lasai, offering Brazilian-French fusion, maintains a {} star rating."
+  },
+  {
+    "name": "Gaa",
+    "cuisine": "Modern Indian",
+    "description": "Gaa, a modern Indian restaurant, has been awarded {} stars."
+  },
+  {
+    "name": "Atomix",
+    "cuisine": "Korean-inspired",
+    "description": "Atomix, serving Korean-inspired tasting menus, boasts {} stars."
+  },
+  {
+    "name": "Sorn",
+    "cuisine": "Southern Thai",
+    "description": "Sorn, specializing in Southern Thai cuisine, holds a {} star rating."
+  },
+  {
+    "name": "La Colombe",
+    "cuisine": "French-Asian fusion",
+    "description": "La Colombe, known for French-Asian fusion, has earned {} stars."
+  },
+  {
+    "name": "Lyle's",
+    "cuisine": "Modern British",
+    "description": "Lyle's, a modern British eatery, maintains {} stars."
+  },
+  {
+    "name": "Enigma",
+    "cuisine": "Conceptual",
+    "description": "Enigma, offering a conceptual dining experience, has received a {} star rating."
+  },
+  {
+    "name": "Septime",
+    "cuisine": "Neo-bistro",
+    "description": "Septime, a neo-bistro in Paris, holds {} stars."
+  },
+  {
+    "name": "Tickets",
+    "cuisine": "Creative tapas",
+    "description": "Tickets, known for creative tapas, has been given {} stars."
+  },
+  {
+    "name": "The Restaurant at Meadowood",
+    "cuisine": "California cuisine",
+    "description": "The Restaurant at Meadowood, showcasing California cuisine, boasts a {} star rating."
+  },
+  {
+    "name": "Toyo Eatery",
+    "cuisine": "Modern Filipino",
+    "description": "Toyo Eatery, celebrating modern Filipino flavors, has earned {} stars."
+  },
+  {
+    "name": "Noma",
+    "cuisine": "New Nordic",
+    "description": "Noma, a pioneer in New Nordic cuisine, maintains {} stars."
+  },
+  {
+    "name": "Akelarre",
+    "cuisine": "Basque",
+    "description": "Akelarre, a Basque culinary institution, holds a {} star rating."
+  },
+  {
+    "name": "Quince",
+    "cuisine": "Californian-Italian",
+    "description": "Quince, blending Californian and Italian influences, has received {} stars."
+  },
+  {
+    "name": "Ultraviolet by Paul Pairet",
+    "cuisine": "Multi-sensory",
+    "description": "Ultraviolet by Paul Pairet, offering a multi-sensory experience, boasts {} stars."
+  }
+]
